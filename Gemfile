@@ -39,3 +39,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'simple_form'
 gem 'devise'
+gem 'carrierwave'
+gem 'acts_as_follower'
